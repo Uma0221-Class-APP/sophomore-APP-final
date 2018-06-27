@@ -1,0 +1,28 @@
+[
+    {
+        "title": "陳老師",
+        "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+        "image": "https://i.imgur.com/ikQks6X.jpg",
+        "email": "123@stu.ntue.edu.tw",
+        "phone": "0910036816",
+        "birthday": "1920.4.12"
+    },
+
+    {
+        "title": "梁老師",
+        "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+        "image": "https://i.imgur.com/fwYCvXg.jpg",
+        "email": "456@stu.ntue.edu.tw",
+        "phone": "0912345678",
+        "birthday": "1933.4.12"
+    },
+
+    {
+        "title": "朱老師",
+        "url": "https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
+        "image": "https://i.imgur.com/L6lOAzs.jpg",
+        "email": "789@stu.ntue.edu.tw",
+        "phone": "0987654321",
+        "birthday": "1935.4.12"
+    }
+]
